@@ -57,6 +57,7 @@
 
   <properties>
     <spring.version>2.0.7</spring.version>
+    <spring.version>2.0.7</spring.version>
   </properties>
 
   <dependencies>
