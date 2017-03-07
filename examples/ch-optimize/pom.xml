@@ -13,6 +13,7 @@
     <module>simple-parent</module>
   </modules>
   <properties>
+    <hibernate.annotations.version>3.3.0.ga</hibernate.annotations.version>
     <geronimo-version>1.1</geronimo-version>
   </properties>
 </project>
