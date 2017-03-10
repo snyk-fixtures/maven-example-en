@@ -14,6 +14,8 @@
   </modules>
 
   <properties>
+    <hibernate.annotations.version>3.4.0.ga</hibernate.annotations.version>
+    <hibernate.annotations.version>3.2.0.ga</hibernate.annotations.version>
     <hibernate.annotations.version>3.3.0.ga</hibernate.annotations.version>
   </properties>
 
