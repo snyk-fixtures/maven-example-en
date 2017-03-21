@@ -40,7 +40,7 @@
             <dependency>
               <groupId>hsqldb</groupId>
               <artifactId>hsqldb</artifactId>
-              <version>${hsqldb.version}</version>
+              <version>7.7.7</version>
             </dependency>
           </dependencies>
         </plugin>
