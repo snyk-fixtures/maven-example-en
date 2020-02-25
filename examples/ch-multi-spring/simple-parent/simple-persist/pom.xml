@@ -23,7 +23,7 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate</artifactId>
-      <version>3.2.5.ga</version>
+      <version>3.3.0.GA</version>
       <exclusions>
         <exclusion>
           <groupId>javax.transaction</groupId>
@@ -34,7 +34,7 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-annotations</artifactId>
-      <version>3.3.0.ga</version>
+      <version>3.4.0.GA</version>
     </dependency>
     <dependency>
       <groupId>org.hibernate</groupId>
