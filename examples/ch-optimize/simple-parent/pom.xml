@@ -56,7 +56,7 @@
   </build>
 
   <properties>
-    <hibernate.annotations.version>3.3.0.ga</hibernate.annotations.version>
+    <hibernate.annotations.version>3.4.0.GA</hibernate.annotations.version>
     <hsqldb.version>1.8.0.7</hsqldb.version>
   </properties>
   <dependencyManagement>
@@ -89,7 +89,7 @@
       <dependency>
         <groupId>org.hibernate</groupId>
         <artifactId>hibernate</artifactId>
-        <version>3.2.5.ga</version>
+        <version>3.3.0.GA</version>
         <exclusions>
           <exclusion>
             <groupId>javax.transaction</groupId>
